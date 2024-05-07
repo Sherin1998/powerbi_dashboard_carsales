@@ -1,4 +1,4 @@
-![Car Sales Background 2](https://github.com/Sherin1998/powerbi_dashboard_carsales/assets/75293746/df5fee91-7b99-4e11-8063-9318e6056a44)
+
 # Car Sales Analysis Project
 
 ### Overview
