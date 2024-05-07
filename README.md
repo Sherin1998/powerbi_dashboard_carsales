@@ -16,6 +16,8 @@ This repository contains the code and data for a Business Intelligence (BI) proj
 
 ### YTD Quantity Sold: Total quantity of cars sold from the beginning of the fiscal year to the current date.
 
+### % Increase from Last Year: The percentage increase in cars sold  compared to the same period in the previous year.
+
 
 Analysis Tools: Excel,POWER-BI
 
